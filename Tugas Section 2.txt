@@ -1,0 +1,65 @@
+tugas section 2
+
+1. perbedaan (software quality assurance) & (software testing)
+- software quality assurance adalah tahapan/proses yang bertujuan untuk memastikan bahwa software yang dibuat sudah berjalan sebagaimana mestinya.
+- software testing adalah sebuah metode yang dijalankan untuk memeriksa apakah aplikasi sudah sesuai dengan persyaratan yang diharapkan ataupun belum.
+
+2. manual testing pada web saucedemo serta reporting
+- file pada office 
+
+3. kelebihan & kekuranngan 5 tools automation testing
+- selenium: tools pengujian aplikasi yang open source dan otomatis. Dengan Selenium, Tester dapat menguji berbagai aplikasi web lintas browser dan platform secara otomatis.
+	- kelebihan
+	mendukung berbagai macam bahasa pemrograman.
+	pengujian lebih sederhana dan efesien.
+	dapat digunakan di berbagai os.
+	- kekurangan
+	harus memiliki keterampilan yang cukup tinggi untuk menginstall, menggunakan dan mengintegrasikan alat kerangka kerja selenium.
+
+- testcomplete: alat yang dirancang untuk menguji aplikasi web, seluler, dan desktop serta dilengkapi dengan mesin pengenalan objek yang canggih, memungkinkan deteksi akurat terhadap elemen user interface dinamis.
+	- kelebihan
+	mudah diatur dan tidak perlu memiliki pengetahuan.
+	mendukung berbagai macam bahasa pemrograman.
+	- kekurangan
+	biaya perangkat lunak yang cukup mahal.
+
+- katalon studio: software yang digunakan untuk melakukan pengetesan secara otomatis di berbagai platform seperti web application, API, mobile application, dan desktop.
+	- kelebihan
+	konfigurasi environment sederhana.
+	distribusi antar muka fungsional.
+	mendukung perekaman dan pemutaran.
+	mendukung mode pengeditan skrip.
+	mengambil elemen secara manual.
+	kata kunci bawaan.
+	independensi manajemen data.
+	- kekurangan
+	minimnya dokumentasi penggunaan.
+
+- soapUI: Alat Pengujian API yang dapat melakukan pengujian fungsional, pemuatan, keamanan, dan compliance testing pada API.
+	- kelebihan
+	dapat menguji api dan layanan.
+	terdapat versi terbuka dan pro.
+	antarmuka yang ramah pengguna.
+	adanya fitur wizar pernyataan, editor dan query sql.
+	- kekurangan
+	tidak dapat menguji web atau aplikasi seluler.
+	
+- jmeter: sebuah software open-source berbasis java yang digunakan untuk melakukan pengujian kinerja dan beban pada aplikasi web dan layanan web.
+	- kelebihan
+	open source license, memungkinkan pengembang menggunakan kode sumber untuk pengembangan karena gratis.
+	memungkinkan secara bersamaan dan simultanneokami mengambil sampel fungsi yang berbeda dengan grup thread terpisah.
+	hasil tes dapat ditampilkan ke dalam format berbeda seperti bagan, tabel, pohon, dan file log.
+	mudah untuk di instalasi.
+	- kekurangan
+	tidak support banyak bahasa pemrograman lainnya.
+
+- appium: salah satu testing tools yang dapat digunakan untuk melakukan pengujian otomatis pada platform mobile.
+	- kelebihan
+	dapat menulis, mengunggah, mengeksekusi dan melihat hasil tes langsung di cloud.
+	mendukung berbagai platform.
+	mendukung berbagai macam bahasa pemrograman.
+	- kekurangan
+	membutuhkan pengetahuan lanjutan tentang kerangka kerja pengujian untuk menyiapkan dan menerapkan.
+
+4. buat 5 test case dengan qase.io dan manualnya dari web saucedemo. kemudian jelaskan pros dan cons dari masing2 tols.
+
