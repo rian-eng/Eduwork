@@ -1,22 +1,32 @@
 tugas section 1
 
-1. requirement analysis / analisa kebutuhan
-	pada aplikasi dana terdapat fitur e-money. saya sebagai user kebingungan ingin mengetahui saldo pada kartu e-money saya.
-pada fungsi fitur e-money ini masih dapat dikembangkan agar pengguna dapat melihat isi saldo mereka.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
 
-2. test planning / rencana test
-	mencoba untuk mengisi saldo pada kartu e-money menggunakan nomor kartu sehingga dapat mengecek saldo e-money tersebut menggunakan nomor kartu ataupun dengan fitur nfc yang support pada perangkat pengguna. 
-
-3. hubungan agile dengan QA? 
-	komunikasi yang dilakukan langsung dengan tim ataupun klien terhadap perkembangan produk/aplikasi dan menerima perubahan pengembangan produk/aplikasi dari klien ataupun tim agar mendapatkan kesederhanaan pengembangan produk dan mendapatkan kehematan biaya sehingga menghasilkan produk yang berjalan dengan baik dan sesuai dengan keinginan klien.
-
-4. perbedaan qc dan qa, kenapa tugas dan kewajibannya sama?
-- QC akan berfokus pada pemeriksaan atau inspeksi pada produk untuk memastikan sebuah produk yang siap dipasarkan dan tidak memiliki kecacatan. Produk akan dipastikan sempurna sebelum dinyatakan layak untuk dijual. Sedangkan QA akan berfokus pada rangkaian proses sistematis untuk memastikan produk memenuhi persyaratan.
-- tugas qa dan qc memiliki perbedaan masing masing tetapi bertujuan untuk kesempurnaan aplikasi/produk yang akan dijual dan tidak memiliki kecacatan.
-
-5. buat pertanyaan tentang pemrograman ataupun bukan.
-- selamat siang, saya sudah mencoba mengistall game valorant tetapi game tersebut stuck pada tampilan awal/menu utama. dan saya sudah melakukan beberapa panduan dari google dalam menginstall pendukung seperti visual C++, java SE tetapi masih stuck di tampilan awal. mohon batuannya apabila memiliki masalah yang serupa, dan terima kasih.
-- salam, setelah saya menginstall aplikasi A dan terdapat beberapa virus/trojan. saya sudah mencoba menghapus/mebersihkan virus tersebut menggunakan smadav dan aplikasi lainnya serta melakukan penghapusan virus secara manual, tetapi setelah komputer direstart virus tersebut masih muncul seperti awal. apakah teman2 memiliki solusi lain? terima kasih.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
+saya belajar git. saya belajar git.
 
 
 
