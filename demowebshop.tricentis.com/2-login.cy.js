@@ -8,7 +8,7 @@ describe('Should visit the website', () => {
         cy.get(':nth-child(2) > label').should('contain.text', 'Email')
     })
 
-    it('Should login with incorrect account login with correct account', ()=>{
+    it('Should login with incorrect account', ()=>{
         cy.visit('https://demowebshop.tricentis.com/login')
         cy.get(':nth-child(2) > label').should('contain.text', 'Email')
 
